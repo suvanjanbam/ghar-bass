@@ -5,19 +5,19 @@ const data = [
     icon: <HiShieldCheck/>,
     heading: "Best interest rates on the market",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "Finding the best interest rates on the market for real estate involves comparing rates offered by various lenders, including banks, credit unions, and online mortgage providers.",
   },
   {
     icon: <MdCancel />,
     heading: "Prevent unstable prices",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "Preventing unstable prices in real estate requires a multi-faceted approach involving both macroeconomic and microeconomic strategies. ",
   },
   {
     icon: <MdAnalytics />,
-    heading: "Best price on the market",
+    heading: "The best price on the market for real estate involves a combination of research, timing, negotiation, and sometimes a bit of luck",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      ".",
   },
 ];
 export default data;
